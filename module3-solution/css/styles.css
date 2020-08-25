@@ -18,9 +18,7 @@
 .navbar-brand a:hover , .navbar-brand a:active{
 	text-decoration: none;
 }
-#main-content{
-	text-align: center;
-}
+
 #chicken{
 	background-color: gray;
 	margin-bottom:100px;
