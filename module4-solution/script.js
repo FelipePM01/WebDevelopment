@@ -63,5 +63,5 @@ WARNING!!! WARNING!!!
 	  	} else {
 	    	helloSpeaker.speak(name);
 	  	}
-		}
+	}
 })(window);
